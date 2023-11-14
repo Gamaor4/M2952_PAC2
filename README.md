@@ -4,4 +4,4 @@ En aquesta PAC explorem tres tipus de visualitzacions: el Heatmap, el diagrama d
 
 Per cadascuna de les visualitzacions s'ha escollit un dataset en el qual poguem aplicar una de les tècniques.
 
-####**HEATMAP**
+#**HEATMAP**
